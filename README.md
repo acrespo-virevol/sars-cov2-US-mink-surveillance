@@ -2,7 +2,7 @@
 
 Code and analysis workflows associated with:
 
-> [Crespo-Bellido et al. (2026). SARS-CoV-2 Delta variant re-emerges in US farmed mink and free-ranging white-tailed deer in 2022–2023]
+> Crespo-Bellido et al. (2026). SARS-CoV-2 Delta variant re-emerges in US farmed mink and free-ranging white-tailed deer in 2022–2023
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains the analysis code and data documentation for a study of
 ## Data Access
 
 - Mink genomes (this study): 293 sequences are deposited in GenBank. Accession numbers are listed in Table S3 of the manuscript.
-- GISAID background sequences: AY.39 and BF.1 sequences used as phylogenetic background are GISAID-sourced and cannot be redistributed here. Acknowledgment tables for contributing laboratories are in Supplemental Files 3–5 of the manuscript.
+- GISAID background sequences: AY.39 and BF.1 sequences used as phylogenetic background are GISAID-sourced and cannot be redistributed here. Acknowledgment tables for contributing laboratories are in Supplementary Files 3–5 of the manuscript.
 - WTD sequences: Four AY.39 white-tailed deer sequences were provided by the USDA National Veterinary Services Laboratories (NVSL) and are included in the GenBank submission.
 
 ---
